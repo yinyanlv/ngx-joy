@@ -1,1 +1,1 @@
-export {ServicesModule} from './services/services.module';
+export {NgxJoyModule} from './ngx-joy.module';

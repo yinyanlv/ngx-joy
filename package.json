@@ -1,6 +1,18 @@
 {
   "name": "ngx-joy",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "description": "Some components based on angular material2, some utils for build web application. ",
+  "keywords": [
+    "angular",
+    "components",
+    "utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinyanlv/ngx-joy.git"
+  },
+  "author": "bugong <yanlv.yin@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
