@@ -1,6 +1,6 @@
 import {NgModule} from '@angular/core';
 import {CommonModule} from '@angular/common';
-import {MatSidenavModule, MatListModule, MatIconModule, MatFormFieldModule} from '@angular/material';
+import {MatSidenavModule, MatListModule, MatIconModule, MatFormFieldModule, MatInputModule} from '@angular/material';
 import {NavComponent} from './nav.component';
 
 @NgModule({
@@ -10,7 +10,8 @@ import {NavComponent} from './nav.component';
     MatSidenavModule,
     MatListModule,
     MatIconModule,
-    MatFormFieldModule
+    MatFormFieldModule,
+    MatInputModule
   ],
   exports: [
     NavComponent
